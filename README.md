@@ -17,7 +17,7 @@ No data is sent to the cloud — all processing happens locally on your machine.
 
 ## ⚙️ Requirements
 - VS Code
-- Local LLM running at `http://127.0.0.1:1234` (You can chgane the port in the code) 
+- Local LLM running at `http://127.0.0.1:1234`
 
 ## 🔧 Settings (Optional)
 - Change server URL:  
